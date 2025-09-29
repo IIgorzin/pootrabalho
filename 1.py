@@ -1,6 +1,6 @@
-a = float(input("Write the first number:")
-b = float(input("Write the second number:")
-c = float(input("Write the third number:")
+a = float(input("Write the first number:"))
+b = float(input("Write the second number:"))
+c = float(input("Write the third number:"))
 
 if (a<b+c) and (b<a+c) and (c<a+b):
           print("the numbers can form a triangle:)")
